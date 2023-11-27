@@ -81,18 +81,24 @@
             </a>
             <ul class="menu-sub">
                 <li class="menu-item">
-                    <a href="https://demos.themeselection.com/materio-bootstrap-html-admin-template/html/front-pages/landing-page.html"
+                    <a href="?pages=project_list"
                         class="menu-link" target="_blank">
-                        <div data-i18n="Project Berjalan">Project Berjalan</div>
+                        <div data-i18n="Project Berjalan">Progress Project</div>
                     </a>
                 </li>
                 <li class="menu-item">
-                    <a href="https://demos.themeselection.com/materio-bootstrap-html-admin-template/html/front-pages/pricing-page.html"
+                    <a href="?pages=grafik_pencapaian"
                         class="menu-link" target="_blank">
                         <div data-i18n="Grafik Pencapaian">Grafik Pencapaian</div>
                     </a>
                 </li>
             </ul>
+        </li>
+        <li class="menu-item">
+            <a href="?pages=users" class="menu-link">
+                <i class="menu-icon tf-icons mdi mdi-account"></i>
+                <div data-i18n="Front Pages">Users</div>
+            </a>
         </li>
     </ul>
 </aside>
