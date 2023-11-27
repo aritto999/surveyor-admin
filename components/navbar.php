@@ -37,7 +37,7 @@
                                     </div>
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h6 class="mb-0"><?php echo $_SESSION['surveyorid'] ?></h6>
+                                    <h6 class="mb-0"><?php echo $_SESSION['surveyor_name'] ?></h6>
                                     <small class="text-muted"><?php echo $_SESSION['surveyor_account_type'] ?></small>
                                 </div>
                             </div>
